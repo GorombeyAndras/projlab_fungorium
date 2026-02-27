@@ -1,0 +1,8 @@
+add Mushroom M1
+add Pyroxene P1
+connect IGH1 IGH1 M1 P1 P1
+status_all
+step
+status_all
+step
+status_all

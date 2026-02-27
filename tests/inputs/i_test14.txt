@@ -1,0 +1,11 @@
+add Mushroom M1
+add Bugger B1
+add Tanzanite T1
+add Clogspore CS1 T1
+add Clogspore CS2 T1
+connect IGH1 IGH1 M1 T1 T1
+add Insect I1 B1
+move I1 T1
+status_all
+grow M1 IGH1 MB1
+status_all

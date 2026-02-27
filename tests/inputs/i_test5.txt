@@ -1,0 +1,12 @@
+add Mushroom M1
+add Bugger B1
+add Emerald E1
+add Frostclash FS1 E1
+connect IGH1 IGH1 M1 E1 E1
+add Insect I1 B1
+move I1 E1
+status_all
+eat_spore I1 FS1
+status_all
+eat_insect IGH1 I1
+status_all

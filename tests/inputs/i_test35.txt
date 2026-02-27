@@ -1,0 +1,8 @@
+add Mushroom M1
+add Emerald E1
+add Emerald E2
+neighbour E1 E2
+connect ICH1 IGH1 M1 E1 E2
+status_all
+break E1 E3
+status_all

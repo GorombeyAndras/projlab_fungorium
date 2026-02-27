@@ -1,0 +1,52 @@
+M1:
+	hyphaList: 0
+	score: 0
+B1:
+	insectList: 1
+	score: 0
+E1:
+	insectsOnTecton: 1
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 0
+	neighbourList: 0
+	sporesOnTecton: 1
+SS1:
+	food: 1
+I1:
+	effectDuration: 0
+	speed: 1
+	canCut: 1
+	canEat: 1
+	buggerOwner: B1
+	onTecton: E1
+	canMultiply: 0
+M1:
+	hyphaList: 0
+	score: 0
+B1:
+	insectList: 2
+	score: 1
+E1:
+	insectsOnTecton: 2
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 0
+	neighbourList: 0
+	sporesOnTecton: 0
+SS1:
+	dead
+I1:
+	effectDuration: 0
+	speed: 1
+	canCut: 1
+	canEat: 1
+	buggerOwner: B1
+	onTecton: E1
+	canMultiply: 0
+I2:
+	effectDuration: 0
+	speed: 1
+	canCut: 1
+	canEat: 1
+	buggerOwner: B1
+	onTecton: E1
+	canMultiply: 0

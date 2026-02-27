@@ -1,0 +1,13 @@
+add Mushroom M1
+add Anorthite A1
+add Anorthite A2
+neighbour A1 A2
+connect IGH1 IGH1 M1 A1 A1
+connect IGH2 IGH2 M1 A2 A2
+add MushroomBody MB1 IGH1
+status_all
+step
+status_all
+connect ICH1 IGH3 M1 A1 A2
+step
+status_all

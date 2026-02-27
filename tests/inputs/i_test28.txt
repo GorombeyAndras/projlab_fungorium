@@ -1,0 +1,9 @@
+add Mushroom M1
+add Emerald E1
+connect IGH1 IGH1 M1 E1 E1
+add MushroomBody MB1 IGH1
+status_all
+disperse MB1 E1 Vortex VS1
+disperse MB1 E1 Vortex VS2
+disperse MB1 E1 Vortex VS3
+status_all

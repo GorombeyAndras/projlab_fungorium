@@ -1,0 +1,92 @@
+M1:
+	hyphaList: 2
+	score: 1
+A1:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 1
+	sporesOnTecton: 0
+	timeLeftToEarthQuake: 3
+A2:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 1
+	sporesOnTecton: 0
+	timeLeftToEarthQuake: 3
+IGH1:
+	timeSinceDisconnected: 0
+	homeTecton: A1
+	mushroomBodiesList: 1
+IGH2:
+	timeSinceDisconnected: 0
+	homeTecton: A2
+	mushroomBodiesList: 0
+MB1:
+	sporesLeft: 3
+	advanced: false
+	ingrownHypha: IGH1
+M1:
+	hyphaList: 2
+	score: 1
+A1:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 1
+	sporesOnTecton: 0
+	timeLeftToEarthQuake: 2
+A2:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 1
+	sporesOnTecton: 0
+	timeLeftToEarthQuake: 2
+IGH1:
+	timeSinceDisconnected: 0
+	homeTecton: A1
+	mushroomBodiesList: 1
+IGH2:
+	timeSinceDisconnected: 1
+	homeTecton: A2
+	mushroomBodiesList: 0
+MB1:
+	sporesLeft: 3
+	advanced: false
+	ingrownHypha: IGH1
+M1:
+	hyphaList: 3
+	score: 1
+A1:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 1
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 1
+	sporesOnTecton: 0
+	timeLeftToEarthQuake: 1
+A2:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 1
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 1
+	sporesOnTecton: 0
+	timeLeftToEarthQuake: 1
+IGH1:
+	timeSinceDisconnected: 0
+	homeTecton: A1
+	mushroomBodiesList: 1
+IGH2:
+	timeSinceDisconnected: 0
+	homeTecton: A2
+	mushroomBodiesList: 0
+ICH1:
+	timeSinceDisconnected: 0
+	timeSinceCut: -1
+	startingTecton: A1
+	endingTecton: A2
+MB1:
+	sporesLeft: 3
+	advanced: false
+	ingrownHypha: IGH1

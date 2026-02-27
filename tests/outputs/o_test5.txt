@@ -1,0 +1,76 @@
+M1:
+	hyphaList: 1
+	score: 0
+B1:
+	insectList: 1
+	score: 0
+E1:
+	insectsOnTecton: 1
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 0
+	sporesOnTecton: 1
+FS1:
+	food: 7
+IGH1:
+	timeSinceDisconnected: 0
+	homeTecton: E1
+	mushroomBodiesList: 0
+I1:
+	effectDuration: 0
+	speed: 1
+	canCut: 1
+	canEat: 1
+	buggerOwner: B1
+	onTecton: E1
+	canMultiply: 0
+M1:
+	hyphaList: 1
+	score: 0
+B1:
+	insectList: 1
+	score: 7
+E1:
+	insectsOnTecton: 1
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 0
+	sporesOnTecton: 0
+FS1:
+	dead
+IGH1:
+	timeSinceDisconnected: 0
+	homeTecton: E1
+	mushroomBodiesList: 0
+I1:
+	effectDuration: 2
+	speed: 0
+	canCut: 0
+	canEat: 0
+	buggerOwner: B1
+	onTecton: E1
+	canMultiply: 0
+M1:
+	hyphaList: 1
+	score: 1
+B1:
+	insectList: 0
+	score: 7
+E1:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 0
+	sporesOnTecton: 0
+FS1:
+	dead
+IGH1:
+	timeSinceDisconnected: 0
+	homeTecton: E1
+	mushroomBodiesList: 1
+MB1:
+	sporesLeft: 3
+	advanced: false
+	ingrownHypha: IGH1
+I1:
+	dead

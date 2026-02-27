@@ -1,0 +1,15 @@
+add Mushroom M1
+add Emerald E1
+add Emerald E2
+add Emerald E3
+add Emerald E4
+neighbour E1 E2
+neighbour E1 E3
+neighbour E1 E4
+connect IGH1 IGH1 M1 E1 E1
+add MushroomBody MB1 IGH1
+status_all
+connect ICH1 IGH2 M1 E1 E2
+connect ICH2 IGH3 M1 E1 E3
+connect ICH3 IGH4 M1 E1 E4
+status_all

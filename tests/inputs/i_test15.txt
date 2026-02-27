@@ -1,0 +1,11 @@
+add Mushroom M1
+add Mushroom M2
+add Emerald E1
+add Emerald E2
+add Pyroxene P1
+neighbour E1 P1
+neighbour E2 P1
+connect ICH1 IGH1 M1 E1 P1
+status_all
+connect ICH2 IGH2 M2 E2 P1
+status_all

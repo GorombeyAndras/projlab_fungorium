@@ -1,0 +1,39 @@
+M1:
+	hyphaList: 0
+	score: 0
+E1:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 0
+	neighbourList: 1
+	sporesOnTecton: 0
+E2:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 0
+	neighbourList: 1
+	sporesOnTecton: 0
+M1:
+	hyphaList: 2
+	score: 0
+E1:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 1
+	ingrownHyphaeOnTecton: 0
+	neighbourList: 1
+	sporesOnTecton: 0
+E2:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 1
+	ingrownHyphaeOnTecton: 1
+	neighbourList: 1
+	sporesOnTecton: 0
+ICH1:
+	timeSinceDisconnected: 0
+	timeSinceCut: -1
+	startingTecton: E1
+	endingTecton: E2
+IGH1:
+	timeSinceDisconnected: 0
+	homeTecton: E2
+	mushroomBodiesList: 0

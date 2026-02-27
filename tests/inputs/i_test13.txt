@@ -1,0 +1,17 @@
+add Mushroom M1
+add Bugger B1
+add Emerald E1
+add Anorthite A1
+neighbour E1 A1
+connect ICH1 IGH2 M1 E1 A1
+connect IGH1 IGH1 M1 E1 E1
+add MushroomBody MB1 IGH1
+add Insect I1 B1
+move I1 A1
+status_all
+step
+status_all
+step
+status_all
+step
+status_all

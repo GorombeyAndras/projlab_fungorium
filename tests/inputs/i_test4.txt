@@ -1,0 +1,13 @@
+add Mushroom M1
+add Bugger B1
+add Emerald E1
+add Emerald E2
+neighbour E1 E2
+connect ICH1 ING1 M1 E1 E2
+add Insect I1 B1
+move I1 E1
+status_all
+add Clogspore S1 E1
+eat_spore I1 S1
+cut I1 ICH1
+status_all

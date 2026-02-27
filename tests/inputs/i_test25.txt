@@ -1,0 +1,11 @@
+add Mushroom M1
+add Emerald E1
+add Emerald E2
+add Emerald E3
+neighbour E1 E2
+neighbour E2 E3
+add Vortex VS1 E1
+connect IGH1 IGH1 M1 E1 E1
+status_all
+connect ICH1 IGH2 M1 E1 E2 E3 ICH2 IGH3
+status_all

@@ -1,0 +1,11 @@
+add Mushroom M1
+add Bugger B1
+add Emerald E1
+add Emerald E2
+neighbour E1 E2
+connect ICH1 INGH1 M1 E1 E2
+add Insect I1 B1
+move I1 E1
+status_all
+move I1 E2
+status_all

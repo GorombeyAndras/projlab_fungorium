@@ -1,0 +1,8 @@
+add Mushroom M1
+add Emerald E1
+add Vortex VS1 E1
+add Vortex VS2 E1
+connect IGH1 IGH1 M1 E1 E1
+status_all
+grow M1 IGH1 MB1
+status_all

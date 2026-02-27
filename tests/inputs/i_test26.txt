@@ -1,0 +1,15 @@
+add Mushroom M1
+add Mushroom M2
+add Emerald E1
+add Emerald E2
+add Tanzanite T1
+add Emerald E3
+neighbour E1 E2
+neighbour E2 T1
+neighbour T1 E3
+add Vortex VS1 E1
+connect ICH1 IGH2 M1 E3 T1
+connect IGH1 IGH1 M2 E1 E1
+status_all
+connect ICH2 IGH3 M2 E1 E2 T1 ICH3 IGH4
+status_all

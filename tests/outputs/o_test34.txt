@@ -1,0 +1,22 @@
+E1:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 0
+	neighbourList: 0
+	sporesOnTecton: 1
+VS1:
+	food: 1
+E1:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 0
+	neighbourList: 1
+	sporesOnTecton: 0
+E2:
+	insectsOnTecton: 0
+	interconnectingHyphaeOnTecton: 0
+	ingrownHyphaeOnTecton: 0
+	neighbourList: 1
+	sporesOnTecton: 1
+VS1:
+	food: 1
